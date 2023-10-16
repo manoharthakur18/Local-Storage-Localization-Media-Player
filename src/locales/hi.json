@@ -1,0 +1,16 @@
+{
+  "cart_item_list": "कार्ट आइटम सूची",
+  "buy_now": "अभी खरीदें",
+  "your_total_amount_is": "आपकी कुल राशि है",
+  "cash_on_delivery": "पहुंचने पर भुगतान",
+  "online_payment": "ऑनलाइन भुगतान",
+  "payment_confirmation": "भुगतान की पुष्टि",
+  "payment_done_via_cash_on_delivery": "भुगतान कैश ऑन डिलीवरी के माध्यम से किया गया",
+  "add_to_cart": "कार्ट में जोड़ें",
+  "payment_done_via_online_payment": "भुगतान ऑनलाइन भुगतान के माध्यम से किया गया",
+  "remove": "हटाए",
+  "select_language": "भाषा चुने",
+  "cancel": "रद्द",
+  "payment": "भुगतान",
+  "add_items_to_cart": "कार्ट के लिए आइटम जोड़ें"
+}

@@ -1,0 +1,16 @@
+{
+  "cart_item_list": "Cart Item list",
+  "buy_now": "BUY NOW",
+  "your_total_amount_is": "Your total amount is",
+  "cash_on_delivery": "CASH ON DELIVERY",
+  "online_payment": "ONLINE PAYMENT",
+  "payment_confirmation": "Payment Confirmation",
+  "payment_done_via_cash_on_delivery": "Payment done via Cash on Delivery",
+  "add_to_cart": "ADD TO CART",
+  "payment_done_via_online_payment": "Payment done via Online Payment",
+  "remove": "Remove",
+  "select_language":"Select Language",
+  "cancel": "Cancel",
+  "payment":"Payment",
+  "add_items_to_cart":"Add items to cart"
+}
